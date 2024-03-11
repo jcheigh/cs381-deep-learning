@@ -1,3 +1,18 @@
 [submodule "rubik-jcheigh"]
 	path = rubik-jcheigh
 	url = https://github.com/Mark-Hopkins-at-Williams/rubik-jcheigh.git
+[submodule "descent-jcheigh"]
+	path = descent-jcheigh
+	url = https://github.com/Mark-Hopkins-at-Williams/descent-jcheigh.git
+[submodule "lines-jcheigh"]
+	path = lines-jcheigh
+	url = https://github.com/Mark-Hopkins-at-Williams/lines-jcheigh.git
+[submodule "logistics-jcheigh"]
+	path = logistics-jcheigh
+	url = https://github.com/Mark-Hopkins-at-Williams/logistics-jcheigh.git
+[submodule "colonels-jcheigh"]
+	path = colonels-jcheigh
+	url = https://github.com/Mark-Hopkins-at-Williams/colonels-jcheigh.git
+[submodule "basic-training-jcheigh"]
+	path = basic-training-jcheigh
+	url = https://github.com/Mark-Hopkins-at-Williams/basic-training-jcheigh.git
