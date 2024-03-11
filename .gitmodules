@@ -1,0 +1,3 @@
+[submodule "rubik-jcheigh"]
+	path = rubik-jcheigh
+	url = https://github.com/Mark-Hopkins-at-Williams/rubik-jcheigh.git
